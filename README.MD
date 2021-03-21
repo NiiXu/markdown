@@ -18,7 +18,11 @@
      var a =1
      for i<1 i++
     
-    
+
+我的网站是 [网站](https://www.snh48.com)
+
+[一个图片](t.jpg)
+
 还有这些代码
     
 ```javascript    
